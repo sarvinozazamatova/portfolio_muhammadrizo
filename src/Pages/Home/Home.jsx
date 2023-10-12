@@ -11,7 +11,7 @@ const Home = () =>{
             <div className='ooo'> front-end devloper</div>
             <button className='button'>Dowland</button>
             <button className='keys'><a href='http://localhost:5173/about'>About me</a></button>
-            <div className='border'>Bu mening aboutimkelajakda men front-end dasturchisi bolmoq chiman va men marketologlikni o'rgan moqdaman va men front-end ni bitrdim men bu meni ilk portifolioimbunim bityapti bu zo'r portifolioim  </div>
+            <div className='border'>Bu mening aboutim kelajakda men front-end dasturchisi bolmoq chiman va men marketologlikni o'rgan moqdaman va men front-end ni bitrdim men bu meni ilk portifolioimbunim bityapti bu zo'r portifolioim  </div>
 
             
             

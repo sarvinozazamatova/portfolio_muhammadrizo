@@ -1,0 +1,401 @@
+.naw{
+    position: absolute;
+    top: 10px;
+    left: 1400px;
+    font-size: 30px;
+    color: yellow;
+}
+.aboutNav{
+    position: absolute;
+    top: 10px;
+    left: 1290px;
+    font-size: 30px;
+    color: rgb(0, 13, 255);
+}
+
+.contactNav{
+    position: absolute;
+    top: 10px;
+    left: 1180px;
+    color: rgb(0, 13, 255);
+    font-size: 30px;
+}
+
+.h{
+    position: absolute;
+    top: 49px;
+    left: 600px;
+    color: white;
+  
+}
+
+.g{
+    position: absolute;
+    top: 130px;
+    left: 400px;
+    color: white;
+    font-size: 19px;
+}
+.l{
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    color: white;
+    font-size: 19px;
+}
+.o{
+    position: absolute;
+    top: 170px;
+    left: 400px;
+    color: white;
+    font-size: 19px;
+}
+.b{
+    width: 100%;
+    height: 100%;
+
+}
+.bbb{
+    width: 100%;
+    height: 100%;
+
+}
+.lot{
+    position: absolute;
+    top: 0px;
+    left: 700px;
+    color: black
+
+}
+.p{
+    width: 100%;
+    height: 100%;
+}
+.lll{
+    position: absolute;
+    top: 90px;
+    left: 700px;
+    color: white;
+    font-size: 39px;
+}
+.h2{
+    position: absolute;
+    top: 270px;
+    left: 440px;
+    font-size: 30px;
+    color: rgb(37, 33, 253);
+}
+.name{
+    font-size: 40px;
+    position: absolute;
+    top:330px;
+    left: 300px;
+    color: aqua;
+}
+.chiroy{
+    width: 200px;
+    height: 200px;
+}
+.ooo{
+    font-size: 20px;
+    position: absolute;
+    top: 390px;
+    left: 430px;
+    color: azure;
+}
+.button{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(4, 16, 251);
+    position: absolute;
+    top: 479px;
+    left: 525px;
+    color: black;
+}
+.keys{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: red;
+    position: absolute;
+    top: 479px;
+    left: 400px;
+    color: white;
+}
+
+
+.zzz{
+    position: absolute;
+    top: 340px;
+    left: 370px;
+    color: black;
+    font-size: 30px;
+}
+.childrn{
+    width: 100%;
+    height: 700px;
+}
+.bbtt{
+    width: 220px;
+    height:  30px;
+    color:white;
+    border-radius: 15px;
+    background-color: black;
+    border: solid 2px black;
+    font-size: 20px;
+    position: absolute;
+    top: 250px;
+    left: 560px;
+}
+.pul{
+    width: 350px;
+    height: 25px;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    border: solid 2px black;
+    position: absolute;
+    top: 220px;
+    left: 300px; 
+ 
+}
+.push{
+    width: 350px;
+    height: 25px;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    border: solid 2px black;
+    position: absolute;
+    top: 280px;
+    left: 300px;
+}
+.t{
+    width: 350px;
+    height: 25px;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    border: solid 2px black;
+    position: absolute;
+    top: 330px;
+    left: 300px; 
+}
+.send{
+    height: 25px;
+    width: 120px;
+    font-size: 17px;
+    color: black;
+    background-color: red;
+    border-radius: 10px;
+    position: absolute;
+    top: 380px;
+    left: 390px;
+}
+.lllll{
+    position: absolute;
+    top: 100px;
+    left: 750px;
+}
+.y{
+    position: absolute;
+    font-size: 19px;
+    top: 170px;
+    left: 400px;
+    color: white;    
+}
+.bkr{
+    width: 1490px;
+    height: 755px;
+    background-color: black;
+    border-radius: 1px;
+    border: solid 2px black;
+}
+.loop{
+    width: 1500px;
+    height: 730px;
+    background-color: black;
+    border-radius: 1px;
+}
+.port{
+    font-size: 70px;
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
+.vit{
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    top: 15px;
+    left: 9px;
+}
+.color{
+ width: 1520px;
+ height: 690px;
+ background-color: black;
+
+}
+
+    
+@media screen and (max-width:412px){
+    .aboutNav{
+        position: absolute;
+        top: 10px;
+        left: 130px;
+        font-size: 30px;
+        color: yellow;
+    }
+    
+    .childrn{
+        width: 1400px;
+        height: 700px;
+    }
+    .lll{
+        position: absolute;
+        top: 90px;
+        left: 700px;
+        color: white;
+        font-size: 39px;
+    }
+    .port{
+        font-size: 110px;
+        color: white;
+        position: absolute;
+        top: 20px;
+        left: 100px;
+    }
+    .loop{
+        width: 1500px;
+        height:3240px;
+        background-color: black;
+        border-radius: 1px;
+    }
+    .pul{
+        width: 1150px;
+        height: 125px;
+        color: black;
+        background-color: white;
+        border-radius: 420px;
+        border: solid 2px black;
+        position: absolute;
+        top: 1330px;
+        left: 180px;
+        font-size: 100px;
+    }
+    .lllll{
+        position: absolute;
+        top: 190px;
+        left: 130px;
+        width: 900px;
+        height: 900px;
+    }
+    .push{
+        width: 1150px;
+        height: 125px;
+        color: black;
+        background-color: white;
+        border-radius: 420px;
+        border: solid 2px black;
+        position: absolute;
+        top: 1550px;
+        left: 180px;
+        font-size: 100px;
+    }
+    .aboutNav{
+        position: absolute;
+        top: 160px;
+        left: 1100px;
+        font-size: 110px;
+        color: yellow;
+    }
+    .contactNav{
+        position: absolute;
+        top: 10px;
+        left: 1100px;
+        color: yellow;
+        font-size: 110px;
+    }
+    .naw{
+        position: absolute;
+        top: 310px;
+        left: 1100px;
+        font-size: 110px;
+        color: yellow;
+    }
+    .send{
+        height: 125px;
+        width: 620px;
+        font-size: 117px;
+        color: black;
+        background-color: red;
+        border-radius: 110px;
+        position: absolute;
+        top: 2000px;
+        left: 390px;
+    }
+    .t{
+        width: 1150px;
+        height: 125px;
+        color: black;
+        background-color: white;
+        border-radius: 420px;
+        border: solid 2px black;
+        position: absolute;
+        top: 1780px;
+        left: 180px;
+        font-size: 100px;
+
+    }
+    .bkr{
+        width: 1500px;
+        height: 3240px;
+        background-color: black;
+        border-radius: 1px;
+    }
+    .one{
+        width: 900px;
+        height: 900px;
+        background-color: rgb(128, 45, 45);
+        border-radius: 19px;
+        position: absolute;
+        top: 365px;
+        left: 790px;
+
+    }
+}
+.one{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 19px;
+    position: absolute;
+    top: 365px;
+    left: 790px;
+}
+.ll{
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    color: white;
+    font-size: 19px;
+}
+.too{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    color: black;
+    border-radius: 19px;
+    border: solid 2px white;
+    position: absolute;
+    top: 370px;
+    left: 390px;
+}
+.e{
+    position: absolute;
+    top: 30px;
+    left: 1px;
+    color: black;
+}
